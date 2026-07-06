@@ -1,8 +1,8 @@
 # Aaron Kyle Aguilar
 
-Computer Science student at Saint Louis University · Full-Stack Developer
+Cum Laude & Computer Science Graduate at Saint Louis University · Full-Stack Developer
 
-I enjoy building things that actually work — from real-time backends to mobile UIs. Currently building CMS tools and React Native components.
+I enjoy building things that actually work. Currently building CMS tools and React Native components.
 
 ---
 
