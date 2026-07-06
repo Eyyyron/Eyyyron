@@ -2,7 +2,7 @@
 
 Cum Laude & Computer Science Graduate at Saint Louis University · Full-Stack Developer
 
-I enjoy building things that actually work. Currently building CMS tools and React Native components.
+I enjoy building things that actually work. Check my latest project: [AIdala Website](https://eyyyron.github.io/AIdalaWeb/) · [GitHub Repository](https://github.com/Eyyyron/AIdala)
 
 ---
 
@@ -37,9 +37,9 @@ I enjoy building things that actually work. Currently building CMS tools and Rea
 
 ## Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronkyleaguilar-clssyb-pmfc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronkyleaguilar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aaronaguilar2003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://eyyyron.github.io/web/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://eyyyron.github.io/PortfolioWeb/)
 
 ## Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
